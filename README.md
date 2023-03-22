@@ -16,3 +16,4 @@ I have so much to learn in the field of GIS! I look forward to learning widely a
 
 ---
 ## Portfolio
+### [In-Class Exercise: Summer BrewFest](https://cailindz.github.io/GIS_Portfolio/summerbrew.html)
