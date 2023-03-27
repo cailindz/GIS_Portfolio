@@ -21,3 +21,8 @@
 #0e68a5 Med-Dark Blue
 
 hex codes: #09436a, #ffffff, #0e74b8, #eeeeee, #72c8b0, #212121, #f3d03e, #0e68a5
+
+### Lookup Table
+
+### JSON Code
+
