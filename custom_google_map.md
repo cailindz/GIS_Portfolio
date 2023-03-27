@@ -4,7 +4,8 @@
 ### *3/26/2023*
 
 ## Client: POGOH
-![pogoh-logo-rgb-2](https://user-images.githubusercontent.com/117120584/227826011-7fbf2ccc-7c07-4c91-a037-f1ab771b6322.png)
+![pogoh-logo-rgb-2](https://user-images.githubusercontent.com/117120584/227828179-dc1a6fbb-9f0c-490c-ae2d-a841bfaa51e3.png)
+
 
 ### Bid
 
