@@ -19,19 +19,19 @@ Revised color palette: #09436a, #0e68a5, #0e74b8, #286755, #72c8b0, #f3d03e, #fe
 ![POGOH Color Palette_Revised](https://user-images.githubusercontent.com/117120584/227827061-87cf9c69-0e76-4681-b407-bdfed5911161.png)
 
 ### Custom Map
-Country scale
+*Fig. 1 Country scale*
 
 <img width="1066" alt="Screen Shot 2023-03-26 at 10 17 13 PM" src="https://user-images.githubusercontent.com/117120584/227828944-11ebfce4-f8c9-40ed-b091-608b288498fb.png">
 
-State scale
+*Fig. 2 State scale*
 
 <img width="1056" alt="Screen Shot 2023-03-26 at 10 16 55 PM" src="https://user-images.githubusercontent.com/117120584/227828953-1c9a35f0-6426-47ab-996e-ae95b48935e5.png">
 
-City scale
+*Fig. 3 City scale*
 
 <img width="1054" alt="Screen Shot 2023-03-26 at 10 16 38 PM" src="https://user-images.githubusercontent.com/117120584/227828966-8ae673b7-1ca9-402b-a471-e750370cc75a.png">
 
-Neighborhood scale
+*Fig. 4 Neighborhood scale*
 
 <img width="1068" alt="Screen Shot 2023-03-26 at 10 17 43 PM" src="https://user-images.githubusercontent.com/117120584/227828973-d72d46d1-4dd6-4969-90ea-88c70baa1f67.png">  
 
