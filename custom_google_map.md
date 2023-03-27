@@ -59,5 +59,10 @@ View the Lookup Table [HERE](https://docs.google.com/document/d/1a4RcjhbHud7NR88
 **4. Iterate.** Spending time trying different color options for different layers in the Maps Style Editor is an important step for creating the optimal map. Ultimately, I ended up adding adjusting the color palette to include a lighter shade of the bright yellow and a darker shade of the teal green. I also removed black from the palette, and added different gray shades. Overall, these color choices culminate in a map that is recognizable to a user while still reflecting the POGOH logo colors. 
 
 
-
+### Instructions for Use
+1. Copy the JSON Code
+2. Open the Google Maps Program
+3. When creating a new project, select "Import JSON" under "Select your own style"
+4. Paste the JSON code in the given box
+5. Proceed with your mapping project as usual
 
