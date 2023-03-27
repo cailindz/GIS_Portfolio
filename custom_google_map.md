@@ -38,10 +38,13 @@ The figures below depict the custom Google map at increasingly zoomed in scales.
 <img width="1068" alt="Screen Shot 2023-03-26 at 10 17 43 PM" src="https://user-images.githubusercontent.com/117120584/227828973-d72d46d1-4dd6-4969-90ea-88c70baa1f67.png">  
 
 ### JSON Code
-Download the JSON Code file from my GitHub Repository using the link below.
+Download the JSON Code file from my GitHub Repository using the link below.  
+
 [JSON Code File](https://github.com/cailindz/GIS_Portfolio/blob/main/POGOH_map.json)
 
 ### Lookup Table
+The Lookup Table provides a reference for the color representation of different features and elements on the map.
+
 View the Lookup Table [HERE](https://docs.google.com/document/d/1a4RcjhbHud7NR88QI3fsxsbSPvMdvZGJz093sv20ryo/edit?usp=sharing)
 
 <img width="265" alt="Screen Shot 2023-03-26 at 10 38 30 PM" src="https://user-images.githubusercontent.com/117120584/227827419-29fffb1b-1359-4b88-a954-be5f96898485.png">
