@@ -19,6 +19,8 @@ Revised color palette: #09436a, #0e68a5, #0e74b8, #286755, #72c8b0, #f3d03e, #fe
 ![POGOH Color Palette_Revised](https://user-images.githubusercontent.com/117120584/227827061-87cf9c69-0e76-4681-b407-bdfed5911161.png)
 
 ### Custom Map
+The figures below depict the custom Google map at increasingly zoomed in scales. 
+
 *Fig. 1 Country scale*
 
 <img width="1066" alt="Screen Shot 2023-03-26 at 10 17 13 PM" src="https://user-images.githubusercontent.com/117120584/227828944-11ebfce4-f8c9-40ed-b091-608b288498fb.png">
@@ -36,6 +38,7 @@ Revised color palette: #09436a, #0e68a5, #0e74b8, #286755, #72c8b0, #f3d03e, #fe
 <img width="1068" alt="Screen Shot 2023-03-26 at 10 17 43 PM" src="https://user-images.githubusercontent.com/117120584/227828973-d72d46d1-4dd6-4969-90ea-88c70baa1f67.png">  
 
 ### JSON Code
+Download the JSON Code file from my GitHub Repository using the link below.
 [JSON Code File](https://github.com/cailindz/GIS_Portfolio/blob/main/POGOH_map.json)
 
 ### Lookup Table
