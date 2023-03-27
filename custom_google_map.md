@@ -25,4 +25,4 @@ hex codes: #09436a, #ffffff, #0e74b8, #eeeeee, #72c8b0, #212121, #f3d03e, #0e68a
 ### Lookup Table
 
 ### JSON Code
-
+[JSON Code File](https://github.com/cailindz/GIS_Portfolio/POGOH_map.json)
