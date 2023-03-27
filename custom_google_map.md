@@ -4,7 +4,8 @@
 ### *3/26/2023*
 
 ## Client: POGOH
-POGOH, Pittsburgh's bike share program, is run by the non-profit organization [Bike Share Pittsburgh](https://pogoh.com/about-us/). As a transit-oriented organization, mapping is an important part of their communication with the public and with POGOH users. This project customizes a basemap using Google Maps, for POGOH to use on their website, and however they see fit. The custom map is based on the colors of the POGOH logo, pictured below.
+POGOH, Pittsburgh's bike share program, is run by the non-profit organization [Bike Share Pittsburgh](https://pogoh.com/about-us/). As a transit-oriented organization, mapping is an important part of their communication with the public and with POGOH users. This project customizes a basemap using Google Maps, for POGOH to use on their website, and however they see fit. The custom map is based on the colors of the POGOH logo, pictured below.  
+
 ![pogoh-logo-rgb-2](https://user-images.githubusercontent.com/117120584/227828313-034bddff-cba5-418b-8510-7af3493bbc8d.jpeg)
 
 ### Bid
