@@ -12,10 +12,10 @@ POGOH, Pittsburgh's bike share program, is run by the non-profit organization [B
 View the project bid document [HERE](https://docs.google.com/document/d/1cXybnqetIRMJiZZe5F8a1qYsML-WKqig4ZqEtu1XU38/edit?usp=sharing)
 
 ### Color Palette
-Original color palette:
+Original color palette: #09436a, #0e68a5, #0e74b8, #72c8b0, #f3d03e, #ffffff, #eeeeee, #212121
 ![POGOH Color Palette](https://user-images.githubusercontent.com/117120584/227817374-55858822-f61c-4cff-9861-6de1d32c7483.png)
 
-Revised color palette:
+Revised color palette: #09436a, #0e68a5, #0e74b8, #286755, #72c8b0, #f3d03e, #fefaec, #ffffff, #e0e0e0, #cccccc
 ![POGOH Color Palette_Revised](https://user-images.githubusercontent.com/117120584/227827061-87cf9c69-0e76-4681-b407-bdfed5911161.png)
 
 ### Custom Map
