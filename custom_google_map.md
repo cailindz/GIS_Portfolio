@@ -49,6 +49,12 @@ View the Lookup Table [HERE](https://docs.google.com/document/d/1a4RcjhbHud7NR88
 
 <img width="265" alt="Screen Shot 2023-03-26 at 10 38 30 PM" src="https://user-images.githubusercontent.com/117120584/227827419-29fffb1b-1359-4b88-a954-be5f96898485.png">
 
+### Design Process & Decisions
+**1. Identify starting color palette.** First, I used an open-source web tool to identify a suitable color palette based on the POGOH logo. I also added several matching neutral colors I anticipated using, including black, white, and gray. 
+**2. Use Google Maps Style Editor.** Starting with a base map template, I then selected features of the map and experimented with different color options. This included the color of natural and man-made landscape, borders, labels, points of interest like parks, and transit features like roads. 
+**3. Review at different zoom extents.** A critical review of how the design choices work at different zoom extents provides perspective on how cohesive the design choices are.
+**4. Iterate.** Spending time trying different color options for different layers in the Maps Style Editor is an important step for creating the optimal map. Ultimately, I ended up adding adjusting the color palette to include a lighter shade of the bright yellow and a darker shade of the teal green. I also removed black from the palette, and added different gray shades. Overall, these color choices culminate in a map that is recognizable to a user while still reflecting the POGOH logo colors. 
+
 
 
 
