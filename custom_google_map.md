@@ -4,12 +4,16 @@
 ### *3/26/2023*
 
 ## Client: POGOH
+![pogoh-logo-rgb-2](https://user-images.githubusercontent.com/117120584/227826011-7fbf2ccc-7c07-4c91-a037-f1ab771b6322.png)
 
 ### Bid
 
 ### Color Palette
-
+Original color palette:
 ![POGOH Color Palette](https://user-images.githubusercontent.com/117120584/227817374-55858822-f61c-4cff-9861-6de1d32c7483.png)
+
+Revised color palette:
+
 
 #09436a Dark Blue
 #ffffff White
@@ -25,5 +29,4 @@ hex codes: #09436a, #ffffff, #0e74b8, #eeeeee, #72c8b0, #212121, #f3d03e, #0e68a
 ### Lookup Table
 
 ### JSON Code
-[JSON Code File](https://github.com/cailindz/GIS_Portfolio/POGOH_map.json)
 [JSON Code File](https://github.com/cailindz/GIS_Portfolio/blob/main/POGOH_map.json)
