@@ -18,3 +18,10 @@ I have so much to learn in the field of GIS! I look forward to learning widely a
 ## Portfolio
 ### [In-Class Exercise: Summer BrewFest](https://cailindz.github.io/GIS_Portfolio/summerbrew.html)
 ### [Assignment: Build and deploy a custom Google Map for a non-profit organization](https://cailindz.github.io/GIS_Portfolio/custom_google_map.html)
+
+
+---
+
+### *Thanks for stopping by my portfolio!* 
+
+![IMG_8221](https://user-images.githubusercontent.com/117120584/206813102-de15cc89-7534-4eea-9e4d-60f64a3a5ce8.jpg)
