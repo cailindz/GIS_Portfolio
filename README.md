@@ -19,7 +19,6 @@ I have so much to learn in the field of GIS! I look forward to learning widely a
 ### [In-Class Exercise: Summer BrewFest](https://cailindz.github.io/GIS_Portfolio/summerbrew.html)
 ### [Assignment: Build and deploy a custom Google Map for a non-profit organization](https://cailindz.github.io/GIS_Portfolio/custom_google_map.html)
 ### [Assignment: Investigating the DEA Pain Pill Database Using ArcGIS Insights](https://cailindz.github.io/GIS_Portfolio/DEA_database)
-### [Spatial Data Science: Practicing ArcGIS Pro Tools & Techniques](https://cailindz.github.io/GIS_Portfolio/spatialdatascience)
 ### [StoryMap: What defines a suburb?](https://cailindz.github.io/GIS_Portfolio/storymap_suburbs)
 
 
