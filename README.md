@@ -18,7 +18,7 @@ I have so much to learn in the field of GIS! I look forward to learning widely a
 ## Portfolio
 ### [In-Class Exercise: Summer BrewFest](https://cailindz.github.io/GIS_Portfolio/summerbrew.html)
 ### [Assignment: Build and deploy a custom Google Map for a non-profit organization](https://cailindz.github.io/GIS_Portfolio/custom_google_map.html)
-### Assignment: Investigating the DEA Pain Pill Database Using ArcGIS Insights
+### [Assignment: Investigating the DEA Pain Pill Database Using ArcGIS Insights](https://cailindz.github.io/GIS_Portfolio/DEA_database)
 
 
 ---
